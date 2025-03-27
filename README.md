@@ -1,2 +1,3 @@
-# conta_bancaria
-Inicio do projeto conta bancária com depósito, saque e extrato. 
+# Conta bancária
+Inicio do projeto conta bancária com depósito, saque e extrato.
+
